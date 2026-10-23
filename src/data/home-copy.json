@@ -1,0 +1,55 @@
+{
+  "seo": {
+    "title": "Podium | Creative Studio & Video Production for Sports",
+    "description": "Creative direction, film production and photography for sports brands worldwide.",
+    "image": {
+      "url": "https://www.datocms-assets.com/170228/1776225176-podium_socials2.png",
+      "alt": null,
+      "width": 1200,
+      "height": 627,
+      "mimeType": "image/png"
+    },
+    "twitterCard": "summary_large_image"
+  },
+  "homeHeroTagline": "<p><span></span><span>We offer creative direction<br>&amp;&nbsp;</span><span>production for athleticism.</span></p>",
+  "homeHeroHint": "<p><span></span><span></span><span>Scroll Down</span></p>",
+  "homeProjectItems": [
+    {
+      "id": "HOYYSmUNRiit23KLPx0Qkg"
+    },
+    {
+      "id": "ZIFkeYncT62mYW8Q-THRug"
+    },
+    {
+      "id": "Cdzs4p-XQbGAeD4ygxGLvw"
+    },
+    {
+      "id": "PXi6fa0MQQ-2ttBWUCf0WA"
+    },
+    {
+      "id": "W-jSD6mPSoSEqhj8IpkJUQ"
+    },
+    {
+      "id": "eml-fA7MQg6xadlMkNi-ZA"
+    },
+    {
+      "id": "HyZ6gv8ZQX-uFURHbhp8Gg"
+    },
+    {
+      "id": "AO2ScDfVTJu9k9kufF-h7w"
+    }
+  ],
+  "homeWorldwideOverline": "Available Worldwide",
+  "homeWorldwideTitle": "<p><span>We</span><span> </span><span>help</span><span> </span><span>sports</span><span> </span><span>brands</span><span> </span><span>tell</span><span>&nbsp;</span><span>stories</span><span> </span><span>through</span><span> </span><span>fieldwork,</span><span> </span><span>narrative,</span><span> </span><span>and</span><span> <span>creative</span> <span>research</span></span><span>, with</span><span>&nbsp;</span><span>deep</span><span> </span><span>production</span><span> </span><span>expertise.</span></p>",
+  "homeWorldwideCarouselTitle": "Behind the scenes",
+  "homeWhatwedoTitle": "We've worked with sports brands and athletes worldwide.",
+  "homeWhatwedoServiceTitle": "Services",
+  "homeWhatwedoServiceText": "<ul>\n<li><span></span><span></span><span>Creative Direction</span></li>\n<li><span>Video Production</span></li>\n<li><span>Post-Production</span><span></span></li>\n<li><span>Photography</span></li>\n<li><span>VFX</span></li>\n</ul>",
+  "homeWhatwedoClientTitle": "Clients",
+  "homeWhatwedoClientContent": "<ul>\n<li><span></span><span></span><span>Salomon</span></li>\n<li><span>ON Running</span></li>\n<li><span>Puma</span></li>\n<li><span>Nike</span></li>\n<li><span>The North Face </span></li>\n<li><span>Saucony</span></li>\n<li><span>Garmin </span></li>\n<li><span>Ciele</span></li>\n<li><span>Shokz</span></li>\n<li><span>Auclair </span></li>\n<li><span>Altitude Sports </span></li>\n<li><span>Le Braquet</span></li>\n</ul>",
+  "homeWhatwedoAthleteTitle": "Athletes we’ve worked with",
+  "homeWhatwedoAthleteContent": "<p><span></span><span></span><span>Mathieu Blanchard, Conner Mantz, Helen Obiri, Tom Evans, Jay Du Temple, Rener Gracie, Marianne Hogan, Shen Jiasheng, Katie Schide, Lucy Bartholomew, Dan Green, Sara Alonso, Dakota Popehn, Adam Peterman, Germain Grangier, Blandine L&rsquo;hirondel, Ruy Hueda, Arthur Joyeux-Bouillon, Jisub Kim, Yuri Yoshizumi, Rosanna Buchhauer, Jean-Philippe Thibodeau and many more</span></p>",
+  "homeFooterTextLeft": "Not the finish line.",
+  "homeFooterTagline": "<p>Let's build your vision<br><a href=\"#contact\">Work with us</a></p>",
+  "homeFooterTextRight": "It's step one."
+}

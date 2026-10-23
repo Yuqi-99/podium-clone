@@ -1,0 +1,1732 @@
+{
+  "projects": [
+    {
+      "id": "HOYYSmUNRiit23KLPx0Qkg",
+      "projectTitle": "Deviate",
+      "projectSlug": "deviate",
+      "projectClient": "Puma",
+      "projectInformations": "Running — Commercial",
+      "projectDate": "2025-11-17",
+      "seo": {
+        "title": "Deviate 4 — Puma",
+        "description": "Running film for the Puma Deviate 4. Creative direction and video production by Podium.",
+        "image": {
+          "url": "/media/25399a9ff327-1775409361-puma_loop-edited.mp4",
+          "alt": "Puma Deviate 4 running shoe campaign — cinematic video production showcasing athletic performance and motion",
+          "width": 1920,
+          "height": 1080,
+          "mimeType": "video/mp4",
+          "video": {
+            "thumbnailUrl": "/media/38d2601b1087-thumbnail.jpg"
+          }
+        },
+        "twitterCard": "summary_large_image"
+      },
+      "projectCover": {
+        "url": "https://www.datocms-assets.com/170228/1775101390-puma-dc-0326v2.mp4",
+        "alt": "Puma campaign video showcasing urban sportswear and sneakers in motion",
+        "width": 1620,
+        "height": 1080,
+        "mimeType": "video/mp4",
+        "video": {
+          "thumbnailUrl": "/media/43ccfd1971e6-thumbnail.jpg",
+          "mp4Url": "https://stream.mux.com/936aozlHGvbELNrdp1CAJV66mSI28kRU/high.mp4",
+          "mp4MediumUrl": "https://stream.mux.com/936aozlHGvbELNrdp1CAJV66mSI28kRU/medium.mp4",
+          "muxPlaybackId": "936aozlHGvbELNrdp1CAJV66mSI28kRU"
+        }
+      },
+      "projectPoster": {
+        "url": "/media/25399a9ff327-1775409361-puma_loop-edited.mp4",
+        "alt": "Puma Deviate 4 running shoe campaign — cinematic video production showcasing athletic performance and motion",
+        "width": 1920,
+        "height": 1080,
+        "mimeType": "video/mp4",
+        "video": {
+          "thumbnailUrl": "/media/38d2601b1087-thumbnail.jpg",
+          "mp4Url": "/media/115e5b0828b6-high.mp4",
+          "mp4MediumUrl": "https://stream.mux.com/3D8cbBplJiTT61FoP201gIuqrLZgexQkf/medium.mp4"
+        }
+      },
+      "pageContent": [
+        {
+          "__typename": "BlockContentRecord",
+          "id": "PzYXCUEERjeD0ZMm_WRcHg",
+          "title": "Puma wanted a campaign for the Deviate 4. A shoe built for speed.",
+          "text": "<p>The idea was simple: the chase. The camera needed to feel like it was barely keeping up with the runner.</p>",
+          "columns": false
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "KX_R6YpKTQSAyI6U_Dn2xA",
+          "medias": [
+            {
+              "url": "https://www.datocms-assets.com/170228/1775101390-puma-dc-0326v2.mp4",
+              "alt": "Puma campaign video showcasing urban sportswear and sneakers in motion",
+              "width": 1620,
+              "height": 1080,
+              "mimeType": "video/mp4",
+              "video": {
+                "thumbnailUrl": "/media/43ccfd1971e6-thumbnail.jpg",
+                "mp4Url": "https://stream.mux.com/936aozlHGvbELNrdp1CAJV66mSI28kRU/medium.mp4",
+                "muxPlaybackId": "936aozlHGvbELNrdp1CAJV66mSI28kRU"
+              }
+            }
+          ]
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "fwO4KyM6QrWGh7qocZwX_w",
+          "medias": [
+            {
+              "url": "/media/a9bbfeac6b81-1775101353-puma-1.webp",
+              "alt": "Person wearing Puma shorts posing indoors for a sportswear editorial",
+              "width": 2556,
+              "height": 1704,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/d91fa4273f53-1775101353-puma-2.webp",
+              "alt": "Person wearing Puma sneakers walking through an urban street with plants and city architecture",
+              "width": 2556,
+              "height": 1704,
+              "mimeType": "image/webp",
+              "video": null
+            }
+          ]
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "Ej6D94MSTle4n5ZZ0va1qQ",
+          "medias": [
+            {
+              "url": "/media/1392415eda9f-1775101353-puma-4.webp",
+              "alt": "Person walking through a city alley wearing Puma gear, urban street photography",
+              "width": 2556,
+              "height": 1704,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/e9ee98efba38-1775101353-puma-5.webp",
+              "alt": "Woman running in Puma shorts and shoes, athletic performance photography",
+              "width": 2556,
+              "height": 1704,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/1c231c89119a-1775101353-puma-6.webp",
+              "alt": "Woman in Puma vest with wristwatch, athletic portrait after workout",
+              "width": 2556,
+              "height": 1704,
+              "mimeType": "image/webp",
+              "video": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eml-fA7MQg6xadlMkNi-ZA",
+      "projectTitle": "Life Edition (LE)",
+      "projectSlug": "life-edition",
+      "projectClient": "Ciele",
+      "projectInformations": "Running — Creative Direction, Mixed-Media",
+      "projectDate": "2025-05-01",
+      "seo": {
+        "title": "Life Edition (LE) — Ciele",
+        "description": "Art direction and photography for Ciele's Life Edition running collection.",
+        "image": {
+          "url": "/media/029d7ceeb18d-1775438354-ciele-le-1.webp",
+          "alt": "Man running in Ciele Le athletic footwear and sportswear",
+          "width": 1536,
+          "height": 1920,
+          "mimeType": "image/webp",
+          "video": null
+        },
+        "twitterCard": "summary_large_image"
+      },
+      "projectCover": {
+        "url": "/media/efbb0ca77b93-1776289863-ciele-le-poster.mp4",
+        "alt": "Man wearing coat that floats in the wind — LE Collection by CIELE",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "video/mp4",
+        "video": {
+          "thumbnailUrl": "/media/7cad3eef7979-thumbnail.jpg",
+          "mp4Url": "/media/bb5a2507c184-high.mp4",
+          "mp4MediumUrl": "https://stream.mux.com/x23jLejukYi5nw66bfPunCWVR1pQe16l/medium.mp4",
+          "muxPlaybackId": "x23jLejukYi5nw66bfPunCWVR1pQe16l"
+        }
+      },
+      "projectPoster": {
+        "url": "/media/efbb0ca77b93-1776289863-ciele-le-poster.mp4",
+        "alt": "Man wearing coat that floats in the wind — LE Collection by CIELE",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "video/mp4",
+        "video": {
+          "thumbnailUrl": "/media/7cad3eef7979-thumbnail.jpg",
+          "mp4Url": "/media/bb5a2507c184-high.mp4",
+          "mp4MediumUrl": "https://stream.mux.com/x23jLejukYi5nw66bfPunCWVR1pQe16l/medium.mp4"
+        }
+      },
+      "pageContent": [
+        {
+          "__typename": "BlockContentRecord",
+          "id": "cBXuGTncSV-UfS2sY-EzWA",
+          "title": "Print. Scan. Repeat.",
+          "text": "<p><span data-sd-animate=\"true\">Halfway</span> <span data-sd-animate=\"true\">through</span> <span data-sd-animate=\"true\">cooking</span> <span data-sd-animate=\"true\">noodles</span> <span data-sd-animate=\"true\">in</span> <span data-sd-animate=\"true\">the</span> <span data-sd-animate=\"true\">back</span> <span data-sd-animate=\"true\">of</span> <span data-sd-animate=\"true\">a</span> <span data-sd-animate=\"true\">van,</span> <span data-sd-animate=\"true\">parked</span> <span data-sd-animate=\"true\">god-knows-where</span> <span data-sd-animate=\"true\">in</span> <span data-sd-animate=\"true\">Utah,</span> <span data-sd-animate=\"true\">Ciele</span> <span data-sd-animate=\"true\">called.</span> <span data-sd-animate=\"true\">They</span> <span data-sd-animate=\"true\">had</span> <span data-sd-animate=\"true\">a</span> <span data-sd-animate=\"true\">weird-in-the-best-way</span> <span data-sd-animate=\"true\">idea:</span> <span data-sd-animate=\"true\">a</span> <span data-sd-animate=\"true\">capsule</span> <span data-sd-animate=\"true\">built</span> <span data-sd-animate=\"true\">around</span> <span data-sd-animate=\"true\">jeans</span> <span data-sd-animate=\"true\">you</span> <span data-sd-animate=\"true\">could</span> <span data-sd-animate=\"true\">actually</span> <span data-sd-animate=\"true\">run</span> <span data-sd-animate=\"true\">in,</span> <span data-sd-animate=\"true\">and</span> <span data-sd-animate=\"true\">it</span> <span data-sd-animate=\"true\">needed</span> <span data-sd-animate=\"true\">visuals</span> <span data-sd-animate=\"true\">just</span> <span data-sd-animate=\"true\">as</span> <span data-sd-animate=\"true\">unexpected.</span></p>\n<p><span data-sd-animate=\"true\">Back</span> <span data-sd-animate=\"true\">in</span> <span data-sd-animate=\"true\">Montreal,</span> <span data-sd-animate=\"true\">the</span> <span data-sd-animate=\"true\">sky</span> <span data-sd-animate=\"true\">was</span> <span data-sd-animate=\"true\">wet</span> <span data-sd-animate=\"true\">cement.</span> <span data-sd-animate=\"true\">No</span> <span data-sd-animate=\"true\">chance.</span> <span data-sd-animate=\"true\">So</span> <span data-sd-animate=\"true\">we</span> <span data-sd-animate=\"true\">stopped</span> <span data-sd-animate=\"true\">chasing</span> <span data-sd-animate=\"true\">weather</span> <span data-sd-animate=\"true\">and</span> <span data-sd-animate=\"true\">built</span> <span data-sd-animate=\"true\">our</span> <span data-sd-animate=\"true\">own</span> <span data-sd-animate=\"true\">world:</span> <span data-sd-animate=\"true\">studio</span> <span data-sd-animate=\"true\">lights,</span> <span data-sd-animate=\"true\">scanned</span> <span data-sd-animate=\"true\">textures,</span> <span data-sd-animate=\"true\">backgrounds</span> <span data-sd-animate=\"true\">torn</span> <span data-sd-animate=\"true\">up</span> <span data-sd-animate=\"true\">and</span> <span data-sd-animate=\"true\">rebuilt.</span> <span data-sd-animate=\"true\">Print,</span> <span data-sd-animate=\"true\">scan,</span> <span data-sd-animate=\"true\">print</span> <span data-sd-animate=\"true\">again</span></p>\n<p><span data-sd-animate=\"true\">The</span> <span data-sd-animate=\"true\">result</span> <span data-sd-animate=\"true\">was</span> <span data-sd-animate=\"true\">less</span> <span data-sd-animate=\"true\">a</span> <span data-sd-animate=\"true\">campaign</span> <span data-sd-animate=\"true\">than</span> <span data-sd-animate=\"true\">its</span> <span data-sd-animate=\"true\">own</span> <span data-sd-animate=\"true\">dimension.</span> <span data-sd-animate=\"true\">Surreal</span> <span data-sd-animate=\"true\">but</span> <span data-sd-animate=\"true\">inviting,</span> <span data-sd-animate=\"true\">and</span> <span data-sd-animate=\"true\">tight</span> <span data-sd-animate=\"true\">enough</span> <span data-sd-animate=\"true\">to</span> <span data-sd-animate=\"true\">give</span> <span data-sd-animate=\"true\">the</span> <span data-sd-animate=\"true\">drop</span> <span data-sd-animate=\"true\">a</span> <span data-sd-animate=\"true\">clear</span> <span data-sd-animate=\"true\">identity.</span> <span data-sd-animate=\"true\">It</span> <span data-sd-animate=\"true\">ended</span> <span data-sd-animate=\"true\">up</span> <span data-sd-animate=\"true\">featured</span> <span data-sd-animate=\"true\">across</span> <span data-sd-animate=\"true\">several</span> <span data-sd-animate=\"true\">design-forward</span> <span data-sd-animate=\"true\">sport</span> <span data-sd-animate=\"true\">publications,</span> <span data-sd-animate=\"true\">and</span> <span data-sd-animate=\"true\">traveled</span> <span data-sd-animate=\"true\">further</span> <span data-sd-animate=\"true\">than</span> <span data-sd-animate=\"true\">we</span> <span data-sd-animate=\"true\">expected.</span></p>",
+          "columns": true
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "G3lmuTxdRaWYoTM9TDOr6A",
+          "medias": [
+            {
+              "url": "/media/029d7ceeb18d-1775438354-ciele-le-1.webp",
+              "alt": "Man running in Ciele Le athletic footwear and sportswear",
+              "width": 1536,
+              "height": 1920,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "https://www.datocms-assets.com/170228/1775100641-le-video4.webm",
+              "alt": "Le Braquet cycling video with road scenery and rider performance",
+              "width": 1920,
+              "height": 1080,
+              "mimeType": "video/webm",
+              "video": {
+                "thumbnailUrl": "/media/2af74a4d3c20-thumbnail.jpg",
+                "mp4Url": "https://stream.mux.com/5yO6fYGNoICOBW3wQDhSUEA3HIhHrkqv/medium.mp4",
+                "muxPlaybackId": "5yO6fYGNoICOBW3wQDhSUEA3HIhHrkqv"
+              }
+            },
+            {
+              "url": "/media/c9814120e9cd-1775100641-ciele-le-3.webp",
+              "alt": "Man wearing Ciele Le jacket and hat posing on rocks, outdoor portrait",
+              "width": 1920,
+              "height": 1536,
+              "mimeType": "image/webp",
+              "video": null
+            }
+          ]
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "ce1nOp8fT2m4OFpxhGOK-w",
+          "medias": [
+            {
+              "url": "/media/008747197042-1775438385-ciele-le-6.webp",
+              "alt": "Woman wearing Ciele Le sun hat with bracelet, portrait photography",
+              "width": 1484,
+              "height": 1920,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "https://www.datocms-assets.com/170228/1775100642-le-video3.webm",
+              "alt": "Le Braquet cycling video featuring training rides and cyclist lifestyle",
+              "width": 1920,
+              "height": 1080,
+              "mimeType": "video/webm",
+              "video": {
+                "thumbnailUrl": "/media/6e547cb54af7-thumbnail.jpg",
+                "mp4Url": "https://stream.mux.com/GSETvWLC00Svpaeyd9JhRYuA6GiOkdrje/medium.mp4",
+                "muxPlaybackId": "GSETvWLC00Svpaeyd9JhRYuA6GiOkdrje"
+              }
+            }
+          ]
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "XtfBCFf1RXmOI0earreT3g",
+          "medias": [
+            {
+              "url": "https://www.datocms-assets.com/170228/1775100642-le-video5.webm",
+              "alt": "Le Braquet cycling video highlighting group rides and cycling culture",
+              "width": 1920,
+              "height": 1080,
+              "mimeType": "video/webm",
+              "video": {
+                "thumbnailUrl": "/media/015878f587f9-thumbnail.jpg",
+                "mp4Url": "https://stream.mux.com/weZYgxwSHk6HJQVkH79fraR1Xph4GnN1/medium.mp4",
+                "muxPlaybackId": "weZYgxwSHk6HJQVkH79fraR1Xph4GnN1"
+              }
+            },
+            {
+              "url": "/media/5632d23bf9c8-1775438433-ciele-le-4.webp",
+              "alt": "Person in Ciele Le baseball cap, shorts and sneakers dancing outdoors",
+              "width": 1282,
+              "height": 1920,
+              "mimeType": "image/webp",
+              "video": null
+            }
+          ]
+        },
+        {
+          "__typename": "BlockQuoteRecord",
+          "id": "S-2ednjARwCD1L9TxVtEYw",
+          "text": "I'M SO HAPPY WITH THE RESULT, YOU'RE MACHINES.",
+          "author": "Lucie, Ciele"
+        }
+      ]
+    },
+    {
+      "id": "ZIFkeYncT62mYW8Q-THRug",
+      "projectTitle": "80 Winters",
+      "projectSlug": "80-winters",
+      "projectClient": "Auclair",
+      "projectInformations": "Winter sports — Brand Film",
+      "projectDate": "2025-12-02",
+      "seo": {
+        "title": "80 Winters — Auclair",
+        "description": "Celebrating 80 years of winter heritage with Auclair. Creative direction and video.",
+        "image": {
+          "url": "https://www.datocms-assets.com/170228/1775100569-auclair_loop.webm",
+          "alt": "Auclair 80 Winters ski film — backcountry skiing footage celebrating eight decades of Canadian winter craftsmanship",
+          "width": 1920,
+          "height": 1080,
+          "mimeType": "video/webm",
+          "video": {
+            "thumbnailUrl": "/media/ae80de3b950e-thumbnail.jpg"
+          }
+        },
+        "twitterCard": "summary_large_image"
+      },
+      "projectCover": {
+        "url": "https://www.datocms-assets.com/170228/1775100569-auclair_web.webm",
+        "alt": "Auclair brand video showcasing outdoor winter gear and accessories in action",
+        "width": 1806,
+        "height": 1080,
+        "mimeType": "video/webm",
+        "video": {
+          "thumbnailUrl": "/media/9535ff963ed9-thumbnail.jpg",
+          "mp4Url": "https://stream.mux.com/FcZGlu7ng01YfCo7IBuldWFAplnUPjMy3/high.mp4",
+          "mp4MediumUrl": "https://stream.mux.com/FcZGlu7ng01YfCo7IBuldWFAplnUPjMy3/medium.mp4",
+          "muxPlaybackId": "FcZGlu7ng01YfCo7IBuldWFAplnUPjMy3"
+        }
+      },
+      "projectPoster": {
+        "url": "/media/096d3a529d93-1775439125-80-winters-poster.mp4",
+        "alt": "Skier carving through deep powder in the Auclair 80 Winters film — celebrating 80 years of winter heritage",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "video/mp4",
+        "video": {
+          "thumbnailUrl": "/media/6def7de2a94e-thumbnail.jpg",
+          "mp4Url": "/media/b27bc6cb7d0b-high.mp4",
+          "mp4MediumUrl": "/media/baadcff6849f-medium.mp4"
+        }
+      },
+      "pageContent": [
+        {
+          "__typename": "BlockContentRecord",
+          "id": "dHnEp2HNS_K4XtG8G4xadA",
+          "title": "Auclair turned 80. This wasn’t a regular seasonal push. It was about heritage.",
+          "text": "<p>A brand that's been shaping gloves for generations. The twist? We had to shoot a winter concept in the middle of summer. So we stripped down a camera to run near-infrared, flipping green fields into stark white. We hauled in snow machines, built storms from nothing, and leaned into the surreal to make winter happen under the sun. Our director friend R&eacute;mi Belleville pushed the concept to its edge, pulling in a crew that thrived on the challenge. Every department leaned in: art, camera, sound each adding a layer that made the vision hit harder. The result walks a fine line: past, future and legacy. Timeless, but entirely its own.&nbsp;</p>",
+          "columns": true
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "dm9zvebxRhq6Z_S42ObTfw",
+          "medias": [
+            {
+              "url": "https://www.datocms-assets.com/170228/1775100569-auclair_web.webm",
+              "alt": "Auclair brand video showcasing outdoor winter gear and accessories in action",
+              "width": 1806,
+              "height": 1080,
+              "mimeType": "video/webm",
+              "video": {
+                "thumbnailUrl": "/media/9535ff963ed9-thumbnail.jpg",
+                "mp4Url": "https://stream.mux.com/FcZGlu7ng01YfCo7IBuldWFAplnUPjMy3/medium.mp4",
+                "muxPlaybackId": "FcZGlu7ng01YfCo7IBuldWFAplnUPjMy3"
+              }
+            }
+          ]
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "QNrew4FNSkOE4xK4U92Gnw",
+          "medias": [
+            {
+              "url": "/media/eca705c3b4f8-1775438255-auclair-1.webp",
+              "alt": "Hiker outdoors on a mountain slope with dramatic sky, Auclair outdoor apparel",
+              "width": 1440,
+              "height": 1920,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/4f46b1f9ff57-1775438346-auclair-3.webp",
+              "alt": "Person hiking outdoors with backpack and helmet wearing Auclair coat and shoes",
+              "width": 1440,
+              "height": 1152,
+              "mimeType": "image/webp",
+              "video": null
+            }
+          ]
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "GU-ZV4p2TomJsQSfhPPSMw",
+          "medias": [
+            {
+              "url": "/media/0a36c58ec886-1775438330-auclair-2.webp",
+              "alt": "Portrait of a man outdoors wearing Auclair gear, close-up photography",
+              "width": 1536,
+              "height": 1920,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/310d7fde7063-1775438263-auclair-4.webp",
+              "alt": "Close-up of hands wearing Auclair gloves with wristwatch, winter accessories detail",
+              "width": 1440,
+              "height": 1920,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/34caec9a36c9-1775438317-auclair-5.webp",
+              "alt": "Outdoor portrait with goggles and coat, Auclair winter gear in nature",
+              "width": 1535,
+              "height": 1920,
+              "mimeType": "image/webp",
+              "video": null
+            }
+          ]
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "FA0bbh2sRaK9f0IDzObO4w",
+          "medias": [
+            {
+              "url": "/media/32940cf0099b-1775438278-auclair-6.webp",
+              "alt": "Person wearing Auclair gloves and coat holding a baby, winter family moment",
+              "width": 1536,
+              "height": 1920,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/d8d23f624dba-1775100569-auclair-7.webp",
+              "alt": "Portrait of person outdoors wearing Auclair jacket and glasses in natural light",
+              "width": 1423,
+              "height": 1897,
+              "mimeType": "image/webp",
+              "video": null
+            }
+          ]
+        },
+        {
+          "__typename": "BlockQuoteRecord",
+          "id": "NrfzZ-h0SiOrkjUTJ78NRg",
+          "text": "You guys are nuts...",
+          "author": "Phil, Auclair"
+        }
+      ]
+    },
+    {
+      "id": "AO2ScDfVTJu9k9kufF-h7w",
+      "projectTitle": "Jay Du Temple",
+      "projectSlug": "jay-du-temple",
+      "projectClient": "Jay Du Temple",
+      "projectInformations": "Trail Running — YouTube Series",
+      "projectDate": "2026-05-01",
+      "seo": {
+        "title": "Jay Du Temple — Trail Running",
+        "description": "Trail running video series with Jay Du Temple for YouTube. Produced by Podium.",
+        "image": {
+          "url": "https://www.datocms-assets.com/170228/1775100668-jay_loop.webm",
+          "alt": "Jay Du Temple trail running video — comedian and endurance athlete pushing limits on mountain trails",
+          "width": 1920,
+          "height": 1080,
+          "mimeType": "video/webm",
+          "video": {
+            "thumbnailUrl": "/media/6b213f0615b2-thumbnail.jpg"
+          }
+        },
+        "twitterCard": "summary_large_image"
+      },
+      "projectCover": {
+        "url": "https://www.datocms-assets.com/170228/1775100668-jay_loop.webm",
+        "alt": "Jay Du Temple trail running video — comedian and endurance athlete pushing limits on mountain trails",
+        "width": 1920,
+        "height": 1080,
+        "mimeType": "video/webm",
+        "video": {
+          "thumbnailUrl": "/media/6b213f0615b2-thumbnail.jpg",
+          "mp4Url": "https://stream.mux.com/npk02qEJN3uSFcv99HcbGikrwN00BQo9xz/high.mp4",
+          "mp4MediumUrl": "https://stream.mux.com/npk02qEJN3uSFcv99HcbGikrwN00BQo9xz/medium.mp4",
+          "muxPlaybackId": "npk02qEJN3uSFcv99HcbGikrwN00BQo9xz"
+        }
+      },
+      "projectPoster": {
+        "url": "/media/f401bb273cb8-1775439130-jay-du-temple-poster.mp4",
+        "alt": "Jay Du Temple running on a mountain trail — trail running and YouTube video production project",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "video/mp4",
+        "video": {
+          "thumbnailUrl": "/media/0718dafbe377-thumbnail.jpg",
+          "mp4Url": "/media/3873f3ed53e8-high.mp4",
+          "mp4MediumUrl": "https://stream.mux.com/xHKUBnc4BFEE027zZ8kfLkyHDsW1BF8wv/medium.mp4"
+        }
+      },
+      "pageContent": [
+        {
+          "__typename": "BlockContentRecord",
+          "id": "fQAmqujqS5GGwjmVAo8yoA",
+          "title": "A docu series that launched Jay’s YouTube Channel.",
+          "text": "<p><span data-sd-animate=\"true\">In</span> <span data-sd-animate=\"true\">the</span> <span data-sd-animate=\"true\">Alps,</span> <span data-sd-animate=\"true\">mid-shoot,</span> <span data-sd-animate=\"true\">Phil&rsquo;s</span> <span data-sd-animate=\"true\">watch</span> <span data-sd-animate=\"true\">lit</span> <span data-sd-animate=\"true\">up.</span> <span data-sd-animate=\"true\">Jay</span> <span data-sd-animate=\"true\">Du</span> <span data-sd-animate=\"true\">Temple,</span> <span data-sd-animate=\"true\">out</span> <span data-sd-animate=\"true\">of</span> <span data-sd-animate=\"true\">the</span> <span data-sd-animate=\"true\">blue.</span> <span data-sd-animate=\"true\">He</span> <span data-sd-animate=\"true\">wanted</span> <span data-sd-animate=\"true\">to</span> <span data-sd-animate=\"true\">document</span> <span data-sd-animate=\"true\">his</span> <span data-sd-animate=\"true\">build</span> <span data-sd-animate=\"true\">to</span> <span data-sd-animate=\"true\">his</span> <span data-sd-animate=\"true\">longest</span> <span data-sd-animate=\"true\">race</span> <span data-sd-animate=\"true\">yet, a 125 km.</span> <span data-sd-animate=\"true\">They</span> <span data-sd-animate=\"true\">didn&rsquo;t</span> <span data-sd-animate=\"true\">know</span> <span data-sd-animate=\"true\">each</span> <span data-sd-animate=\"true\">other,</span> <span data-sd-animate=\"true\">but</span> <span data-sd-animate=\"true\">Jay&rsquo;s</span> <span data-sd-animate=\"true\">tone</span> <span data-sd-animate=\"true\">felt</span> <span data-sd-animate=\"true\">grounded,</span> <span data-sd-animate=\"true\">open.</span></p>\n<p><span data-sd-animate=\"true\">Phil</span> <span data-sd-animate=\"true\">met</span> <span data-sd-animate=\"true\">him</span> <span data-sd-animate=\"true\">in</span> <span data-sd-animate=\"true\">Kenya.</span> <span data-sd-animate=\"true\">Jay</span> <span data-sd-animate=\"true\">was</span> <span data-sd-animate=\"true\">cruising,</span> <span data-sd-animate=\"true\">tossing</span> <span data-sd-animate=\"true\">jokes</span> <span data-sd-animate=\"true\">mid-stride.</span> <span data-sd-animate=\"true\">Then</span> <span data-sd-animate=\"true\">it</span> <span data-sd-animate=\"true\">was</span> <span data-sd-animate=\"true\">back</span> <span data-sd-animate=\"true\">home</span> <span data-sd-animate=\"true\">for</span> <span data-sd-animate=\"true\">the</span> <span data-sd-animate=\"true\">long</span> <span data-sd-animate=\"true\">hauls:</span> <span data-sd-animate=\"true\">160</span> <span data-sd-animate=\"true\">km</span> <span data-sd-animate=\"true\">traverses,</span> <span data-sd-animate=\"true\">night</span> <span data-sd-animate=\"true\">starts,</span> <span data-sd-animate=\"true\">and</span> <span data-sd-animate=\"true\">the</span> <span data-sd-animate=\"true\">unglamorous</span> <span data-sd-animate=\"true\">middle.</span> <span data-sd-animate=\"true\">Jay</span> <span data-sd-animate=\"true\">was</span> <span data-sd-animate=\"true\">breaking</span> <span data-sd-animate=\"true\">personal</span> <span data-sd-animate=\"true\">limits.</span> <span data-sd-animate=\"true\">Phil</span> <span data-sd-animate=\"true\">was</span> <span data-sd-animate=\"true\">breaking</span> <span data-sd-animate=\"true\">tripods.</span></p>\n<p><span data-sd-animate=\"true\">It</span> <span data-sd-animate=\"true\">became</span> <span data-sd-animate=\"true\">a</span> <span data-sd-animate=\"true\">four-part</span> <span data-sd-animate=\"true\">series</span> <span data-sd-animate=\"true\">that</span> <span data-sd-animate=\"true\">launched</span> <span data-sd-animate=\"true\">Jay&rsquo;s</span> <span data-sd-animate=\"true\">YouTube:</span> <span data-sd-animate=\"true\">an honest look</span>&nbsp;<span data-sd-animate=\"true\">at</span> <span data-sd-animate=\"true\">what</span> <span data-sd-animate=\"true\">it</span> <span data-sd-animate=\"true\">means</span> <span data-sd-animate=\"true\">to</span> <span data-sd-animate=\"true\">start</span> <span data-sd-animate=\"true\">a</span> <span data-sd-animate=\"true\">sports</span> <span data-sd-animate=\"true\">series,</span> <span data-sd-animate=\"true\">and</span> <span data-sd-animate=\"true\">actually</span> <span data-sd-animate=\"true\">go</span> <span data-sd-animate=\"true\">all</span> <span data-sd-animate=\"true\">in.</span><span data-sd-animate=\"true\"></span></p>\n<p><span data-sd-animate=\"true\"></span></p>",
+          "columns": true
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "N4CoUaqHRd-_cVQXWLoIBw",
+          "medias": [
+            {
+              "url": "/media/c41cb21b5f74-1776294610-2.jpg",
+              "alt": null,
+              "width": 1200,
+              "height": 800,
+              "mimeType": "image/jpeg",
+              "video": null
+            },
+            {
+              "url": "/media/f6e7a7facce3-1776294877-547839529_18530474344037116_5541496786922276141_n.jpg",
+              "alt": null,
+              "width": 1080,
+              "height": 720,
+              "mimeType": "image/jpeg",
+              "video": null
+            }
+          ]
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "X1gnHKNzS6OSj68zQnF7sQ",
+          "medias": [
+            {
+              "url": "/media/ab3e1de4a63e-1776294610-5.jpg",
+              "alt": null,
+              "width": 1200,
+              "height": 800,
+              "mimeType": "image/jpeg",
+              "video": null
+            },
+            {
+              "url": "/media/92d7b629ac6b-1776296097-7.jpg",
+              "alt": null,
+              "width": 1200,
+              "height": 800,
+              "mimeType": "image/jpeg",
+              "video": null
+            }
+          ]
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "KTtKU88TStWbjXlT8wD36g",
+          "medias": [
+            {
+              "url": "/media/08f6014afe1a-1776296164-8.jpg",
+              "alt": null,
+              "width": 1200,
+              "height": 800,
+              "mimeType": "image/jpeg",
+              "video": null
+            },
+            {
+              "url": "/media/a22309a05608-1776294610-1.jpg",
+              "alt": null,
+              "width": 1200,
+              "height": 800,
+              "mimeType": "image/jpeg",
+              "video": null
+            },
+            {
+              "url": "/media/b8033ef85016-1776294881-548900957_18530474314037116_7937949247060512416_n.jpg",
+              "alt": null,
+              "width": 1080,
+              "height": 720,
+              "mimeType": "image/jpeg",
+              "video": null
+            }
+          ]
+        },
+        {
+          "__typename": "BlockSingleTitleRecord",
+          "id": "FF8KmQs7TsWUc-GqDVHgsQ",
+          "title": "Over 600k views on YouTube, the project really connected with viewers."
+        }
+      ]
+    },
+    {
+      "id": "PXi6fa0MQQ-2ttBWUCf0WA",
+      "projectTitle": "Not Quite Gone",
+      "projectSlug": "not-quite-gone",
+      "projectClient": "Le Braquet Cycling Club",
+      "projectInformations": "Cycling — Brand Film",
+      "projectDate": "2026-01-08",
+      "seo": {
+        "title": "Not Quite Gone — Le Braquet Cycling Club",
+        "description": "Cycling film for Le Braquet Cycling Club. Creative direction and video by Podium.",
+        "image": {
+          "url": "https://www.datocms-assets.com/170228/1775100642-le-video1.webm",
+          "alt": "Man wearing coat that floats in the wind — LE Collection by CIELE",
+          "width": 1920,
+          "height": 1080,
+          "mimeType": "video/webm",
+          "video": {
+            "thumbnailUrl": "/media/cf033b3c3657-thumbnail.jpg"
+          }
+        },
+        "twitterCard": "summary_large_image"
+      },
+      "projectCover": {
+        "url": "https://www.datocms-assets.com/170228/1776298032-lbcc-not-quite-gone.mp4",
+        "alt": "",
+        "width": 960,
+        "height": 720,
+        "mimeType": "video/mp4",
+        "video": {
+          "thumbnailUrl": "/media/546ca86faf5b-thumbnail.jpg",
+          "mp4Url": "https://stream.mux.com/Kk3ILtHZzkuggcvbV00HiPGYZBhvN00aLg/high.mp4",
+          "mp4MediumUrl": "https://stream.mux.com/Kk3ILtHZzkuggcvbV00HiPGYZBhvN00aLg/medium.mp4",
+          "muxPlaybackId": "Kk3ILtHZzkuggcvbV00HiPGYZBhvN00aLg"
+        }
+      },
+      "projectPoster": {
+        "url": "/media/108ea975e691-1776297900-lbcc_loop.webm",
+        "alt": null,
+        "width": 1920,
+        "height": 1080,
+        "mimeType": "video/webm",
+        "video": {
+          "thumbnailUrl": "/media/01c8196f5ae0-thumbnail.jpg",
+          "mp4Url": "/media/4bc774583d9f-high.mp4",
+          "mp4MediumUrl": "https://stream.mux.com/5j2ei8janV2CKsBPe02T01PHGWk00OR02LF6/medium.mp4"
+        }
+      },
+      "pageContent": [
+        {
+          "__typename": "BlockContentRecord",
+          "id": "U9uTS-tYQgerDkHuXewxLw",
+          "title": "We built a 2-meter high wheel totem and transported it by canoe as the tide rose around us. ",
+          "text": "<p>We wanted to break the expected utility of the wheel by treating it not as a literal object that helps you move faster, but as a burden carried against its intended purpose. Entirely shot on 16mm with a desynced shutter and no monitor, we built a 3-meter high wheel totem and transported it by canoe as the tide rose around us.&nbsp;</p>",
+          "columns": false
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "KSSlEkqyT6efOCY-QKlW-A",
+          "medias": [
+            {
+              "url": "https://www.datocms-assets.com/170228/1776298032-lbcc-not-quite-gone.mp4",
+              "alt": "",
+              "width": 960,
+              "height": 720,
+              "mimeType": "video/mp4",
+              "video": {
+                "thumbnailUrl": "/media/546ca86faf5b-thumbnail.jpg",
+                "mp4Url": "https://stream.mux.com/Kk3ILtHZzkuggcvbV00HiPGYZBhvN00aLg/medium.mp4",
+                "muxPlaybackId": "Kk3ILtHZzkuggcvbV00HiPGYZBhvN00aLg"
+              }
+            }
+          ]
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "aSftk3NBROm5QX1BXHNEVg",
+          "medias": [
+            {
+              "url": "/media/349b7c809e4c-1776196504-4-hero.webp",
+              "alt": "A girl holding a wheel overhead walking in a golden grain field under a pale sky, with faint curved tracks in the middle and a dark treeline along the horizon.",
+              "width": 2880,
+              "height": 2160,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/d74019d679d3-1775438302-2.webp",
+              "alt": "Person looking through binoculars, Jay project exploration photography",
+              "width": 1440,
+              "height": 1080,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/ed99b68ccab1-1775438401-17.webp",
+              "alt": "Tropical rainforest coastline with sea and lush vegetation, Jay project landscape",
+              "width": 1920,
+              "height": 1440,
+              "mimeType": "image/webp",
+              "video": null
+            }
+          ]
+        },
+        {
+          "__typename": "BlockSingleTitleRecord",
+          "id": "ak5MtNWsSwiyex2TvWorfQ",
+          "title": "It was rewarding to watch the project travel, with shares from Outside Details, Le Grenier, and more."
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "dsvkY4klQBOZJnaqHhPLbQ",
+          "medias": [
+            {
+              "url": "/media/275596b0f03e-1775100687-16.webp",
+              "alt": "Bearded man with dog, candid portrait photography for Jay project",
+              "width": 1920,
+              "height": 1440,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/f41c260bbcb0-1775438417-24.webp",
+              "alt": "Buggy vehicle outdoors in a rugged landscape, Jay project adventure",
+              "width": 1920,
+              "height": 1440,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/fc72e5feeb9b-1775438441-13.webp",
+              "alt": "Close-up portrait with piercing detail, Jay project editorial photography",
+              "width": 1920,
+              "height": 1440,
+              "mimeType": "image/webp",
+              "video": null
+            }
+          ]
+        },
+        {
+          "__typename": "BlockQuoteRecord",
+          "id": "bnAFIyNYTpCodxsy_YqM5Q",
+          "text": "I think I've watched it 30 times.",
+          "author": "Greco, Le braquet"
+        }
+      ]
+    },
+    {
+      "id": "Cdzs4p-XQbGAeD4ygxGLvw",
+      "projectTitle": "Milimani",
+      "projectSlug": "milimani",
+      "projectClient": "Salomon",
+      "projectInformations": "Trail Running — Brand Film",
+      "projectDate": "2025-02-26",
+      "seo": {
+        "title": "Milimani — Salomon",
+        "description": "Trail running film for Salomon. Video production and direction by Podium.",
+        "image": {
+          "url": "https://www.datocms-assets.com/170228/1775100724-milimani_loop.webm",
+          "alt": "Salomon Milimani trail running film — athletes racing through East African highland landscapes",
+          "width": 1574,
+          "height": 1080,
+          "mimeType": "video/webm",
+          "video": {
+            "thumbnailUrl": "/media/e189bb2d616c-thumbnail.jpg"
+          }
+        },
+        "twitterCard": "summary_large_image"
+      },
+      "projectCover": {
+        "url": "https://www.datocms-assets.com/170228/1775100724-milimani_web.webm",
+        "alt": "Milimani brand video showcasing trail running in mountain terrain",
+        "width": 1440,
+        "height": 1080,
+        "mimeType": "video/webm",
+        "video": {
+          "thumbnailUrl": "/media/cc4c97bfd161-thumbnail.jpg",
+          "mp4Url": "https://stream.mux.com/700ig84QZXBo1tbZ64ig7zAw01gnVl4gVX/high.mp4",
+          "mp4MediumUrl": "https://stream.mux.com/700ig84QZXBo1tbZ64ig7zAw01gnVl4gVX/medium.mp4",
+          "muxPlaybackId": "700ig84QZXBo1tbZ64ig7zAw01gnVl4gVX"
+        }
+      },
+      "projectPoster": {
+        "url": "/media/fbcb2b510972-1775439136-milimani-poster.mp4",
+        "alt": "Trail runner navigating East African highlands — Salomon Milimani trail running film poster",
+        "width": 1280,
+        "height": 878,
+        "mimeType": "video/mp4",
+        "video": {
+          "thumbnailUrl": "/media/76e1da50bb03-thumbnail.jpg",
+          "mp4Url": "/media/50216c33db4e-high.mp4",
+          "mp4MediumUrl": "/media/b6b8d30a6043-medium.mp4"
+        }
+      },
+      "pageContent": [
+        {
+          "__typename": "BlockContentRecord",
+          "id": "JYPKhdnqT1Whg9UXU4XNPQ",
+          "title": "Red earth, New ground",
+          "text": "<p>As Kenyans slowly step into the world of trail running, we had the chance to meet the ones leading the way: the Milimani Runners. We built the project in two parts. First, in Kenya, observing their daily rhythm and capturing their workouts. Then, in studio, creating a more abstract space, where red earth meets shadows, sweat, and textures. Salomon gave us full trust. Just, \"make something interesting.\" That kind of freedom doesn't happen often. And it made all the difference.&nbsp;</p>",
+          "columns": false
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "McIGf6DpQ02Ho5CG7SDvQw",
+          "medias": [
+            {
+              "url": "https://www.datocms-assets.com/170228/1775100724-milimani_web.webm",
+              "alt": "Milimani brand video showcasing trail running in mountain terrain",
+              "width": 1440,
+              "height": 1080,
+              "mimeType": "video/webm",
+              "video": {
+                "thumbnailUrl": "/media/cc4c97bfd161-thumbnail.jpg",
+                "mp4Url": "https://stream.mux.com/700ig84QZXBo1tbZ64ig7zAw01gnVl4gVX/medium.mp4",
+                "muxPlaybackId": "700ig84QZXBo1tbZ64ig7zAw01gnVl4gVX"
+              }
+            }
+          ]
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "DZ0kvRH0Q46hHDpPl6I3Sg",
+          "medias": [
+            {
+              "url": "/media/ef60e3540b18-1775100724-milimani-6.webp",
+              "alt": "Man's hand close-up during trail run, Milimani athletic detail photography",
+              "width": 1920,
+              "height": 1440,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/a057290d40f6-1775100724-milimani-2.webp",
+              "alt": "Person silhouetted against sunset sky in nature, Milimani outdoor photography",
+              "width": 1920,
+              "height": 1440,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/4f1071f34119-1775100724-milimani-10.webp",
+              "alt": "Mountain valley landscape with rocky peaks and wilderness, Milimani trail scenery",
+              "width": 1920,
+              "height": 1440,
+              "mimeType": "image/webp",
+              "video": null
+            }
+          ]
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "PyWOUhG6QTW5ApqxjJrZWw",
+          "medias": [
+            {
+              "url": "/media/253f75ac2a82-1775100724-milimani-4.webp",
+              "alt": "Close-up of runner's skin and sweat during effort, Milimani trail running",
+              "width": 1920,
+              "height": 1440,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/2133b8f8bd29-1775100724-milimani-5.webp",
+              "alt": "Man sweating during intense trail running effort, Milimani endurance photography",
+              "width": 1920,
+              "height": 1440,
+              "mimeType": "image/webp",
+              "video": null
+            }
+          ]
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "LBEPSmMTR12BpCyGhzWxvw",
+          "medias": [
+            {
+              "url": "/media/6aa4640037a8-1775100724-milimani-7.webp",
+              "alt": "Person running on a trail path wearing gloves and running shoes, Milimani project",
+              "width": 1920,
+              "height": 1440,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/7a3c773cb6e7-1775100724-milimani-1.webp",
+              "alt": "Man silhouetted against the sun and sky outdoors, Milimani trail running project",
+              "width": 1920,
+              "height": 1440,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/103632745778-1775100724-milimani-3.webp",
+              "alt": "Rocky soil and ground texture in natural terrain, Milimani trail detail",
+              "width": 1920,
+              "height": 1440,
+              "mimeType": "image/webp",
+              "video": null
+            }
+          ]
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "A7jkUZ8dSHSERe9p6JJT2w",
+          "medias": [
+            {
+              "url": "/media/1a13bb8e3394-1775100724-milimani-9.webp",
+              "alt": "Person walking on trail wearing running shoes and clothing, Milimani project",
+              "width": 1920,
+              "height": 1440,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/70f8f6b6bc4d-1775100724-milimani-8.webp",
+              "alt": "Portrait of man in jacket with earring, Milimani trail runner editorial",
+              "width": 1920,
+              "height": 1440,
+              "mimeType": "image/webp",
+              "video": null
+            }
+          ]
+        },
+        {
+          "__typename": "BlockQuoteRecord",
+          "id": "DK9xAmgxSxeJFxoPbA67tg",
+          "text": "Honestly, exceeded expectations.",
+          "author": "Ollie, Salomon"
+        }
+      ]
+    },
+    {
+      "id": "HyZ6gv8ZQX-uFURHbhp8Gg",
+      "projectTitle": "Summer Nights",
+      "projectSlug": "summer-nights",
+      "projectClient": "Ciele",
+      "projectInformations": "Running — Commercial",
+      "projectDate": "2025-07-01",
+      "seo": {
+        "title": "Summer Nights — Ciele",
+        "description": "Running film for Ciele's Summer Nights. Video production by Podium.",
+        "image": {
+          "url": "/media/b6d2e97325b3-1775100773-summer-nights-15.webp",
+          "alt": "Ciele Summer Nights campaign — swimmer reaching through turquoise water in golden hour light",
+          "width": 1920,
+          "height": 1280,
+          "mimeType": "image/webp",
+          "video": null
+        },
+        "twitterCard": "summary_large_image"
+      },
+      "projectCover": {
+        "url": "https://www.datocms-assets.com/170228/1775100773-summernightsfinal.mp4",
+        "alt": "Summer Nights campaign video capturing nightlife energy and warm evenings",
+        "width": 1920,
+        "height": 1080,
+        "mimeType": "video/mp4",
+        "video": {
+          "thumbnailUrl": "/media/817d229caf42-thumbnail.jpg",
+          "mp4Url": "https://stream.mux.com/eFOtz02GAXuy12WM01GelE3J5xZn86CTFO/high.mp4",
+          "mp4MediumUrl": "https://stream.mux.com/eFOtz02GAXuy12WM01GelE3J5xZn86CTFO/medium.mp4",
+          "muxPlaybackId": "eFOtz02GAXuy12WM01GelE3J5xZn86CTFO"
+        }
+      },
+      "projectPoster": {
+        "url": "/media/b4db7ee9fd1d-1776305754-summer-nights_loop.webm",
+        "alt": null,
+        "width": 1920,
+        "height": 1080,
+        "mimeType": "video/webm",
+        "video": {
+          "thumbnailUrl": "/media/fd467dbe3be7-thumbnail.jpg",
+          "mp4Url": "/media/f3eb6750793c-high.mp4",
+          "mp4MediumUrl": "https://stream.mux.com/qZLf3YAhWKnKqdhmUtNhVqKyTHbQoUiO/medium.mp4"
+        }
+      },
+      "pageContent": [
+        {
+          "__typename": "BlockContentRecord",
+          "id": "dxh-1gszRuu7CLEsghOQsw",
+          "title": "The brief was simple: capture what summer feels like in Montreal",
+          "text": "<p class=\"cvGsUA direction-ltr align-start para-style-body\"><span data-sd-animate=\"true\">By</span><span> </span><span data-sd-animate=\"true\">a</span><span> </span><span data-sd-animate=\"true\">warm</span><span> </span><span data-sd-animate=\"true\">April</span><span> </span><span data-sd-animate=\"true\">day</span><span> </span><span data-sd-animate=\"true\">we</span><span> </span><span data-sd-animate=\"true\">met</span><span> </span><span data-sd-animate=\"true\">with</span><span> </span><span data-sd-animate=\"true\">Dan,</span><span> </span><span data-sd-animate=\"true\">Marketing</span><span> </span><span data-sd-animate=\"true\">Director</span><span> </span><span data-sd-animate=\"true\">at</span><span> </span><span data-sd-animate=\"true\">Ciele.</span><span> </span><span data-sd-animate=\"true\">He</span><span> </span><span data-sd-animate=\"true\">and</span><span> </span><span data-sd-animate=\"true\">his</span><span> </span><span data-sd-animate=\"true\">friend</span><span> </span><span data-sd-animate=\"true\">Drew</span><span> </span><span data-sd-animate=\"true\">Tyndell,</span><span> </span><span data-sd-animate=\"true\">a</span><span> </span><span data-sd-animate=\"true\">mixed-media</span><span> </span><span data-sd-animate=\"true\">artist</span><span> </span><span data-sd-animate=\"true\">from</span><span> </span><span data-sd-animate=\"true\">New</span><span> </span><span data-sd-animate=\"true\">York,</span><span> </span><span data-sd-animate=\"true\">were</span><span> </span><span data-sd-animate=\"true\">prepping</span><span> </span><span data-sd-animate=\"true\">a</span><span> </span><span data-sd-animate=\"true\">campaign.</span><span> </span><span data-sd-animate=\"true\">The</span><span> </span><span data-sd-animate=\"true\">brief</span><span> </span><span data-sd-animate=\"true\">was</span><span> </span><span data-sd-animate=\"true\">simple:</span><span> </span><span data-sd-animate=\"true\">capture</span><span> </span><span data-sd-animate=\"true\">what</span><span> </span><span data-sd-animate=\"true\">summer</span><span> </span><span data-sd-animate=\"true\">feels</span><span> </span><span data-sd-animate=\"true\">like</span><span> </span><span data-sd-animate=\"true\">in</span><span> </span><span data-sd-animate=\"true\">Montreal</span><span> </span><span data-sd-animate=\"true\">and</span><span> </span><span data-sd-animate=\"true\">make it&nbsp;</span><span data-sd-animate=\"true\">pulse</span><span> </span><span data-sd-animate=\"true\">with</span><span> </span><span data-sd-animate=\"true\">life.</span><span> </span><span data-sd-animate=\"true\">From</span><span> </span><span data-sd-animate=\"true\">that</span><span> </span><span data-sd-animate=\"true\">idea</span><span> </span><span data-sd-animate=\"true\">we</span><span> </span><span data-sd-animate=\"true\">built</span><span> </span><span data-sd-animate=\"true\">surreal</span><span> </span><span data-sd-animate=\"true\">dimensions</span><span> </span><span data-sd-animate=\"true\">that</span><span> </span><span data-sd-animate=\"true\">run</span><span> </span><span data-sd-animate=\"true\">through</span><span> </span><span data-sd-animate=\"true\">underground</span><span> </span><span data-sd-animate=\"true\">tunnels</span><span> </span><span data-sd-animate=\"true\">and</span><span>&nbsp;</span><span data-sd-animate=\"true\">familiar</span><span> </span><span data-sd-animate=\"true\">streets.</span><span> </span><span data-sd-animate=\"true\">We</span><span> </span><span data-sd-animate=\"true\">even</span><span> </span><span data-sd-animate=\"true\">covered</span><span> </span><span data-sd-animate=\"true\">a</span><span> </span><span data-sd-animate=\"true\">pool</span><span> </span><span data-sd-animate=\"true\">with</span><span> </span><span data-sd-animate=\"true\">black</span><span> </span><span data-sd-animate=\"true\">tarp</span><span> </span><span data-sd-animate=\"true\">so</span><span> </span><span data-sd-animate=\"true\">we</span><span> </span><span data-sd-animate=\"true\">could</span><span> </span><span data-sd-animate=\"true\">shoot</span><span> </span><span data-sd-animate=\"true\">underwater,</span><span> </span><span data-sd-animate=\"true\">using</span><span> </span><span data-sd-animate=\"true\">light</span><span> </span><span data-sd-animate=\"true\">to</span><span> </span><span data-sd-animate=\"true\">create</span><span> </span><span data-sd-animate=\"true\">surreal</span><span> </span><span data-sd-animate=\"true\">effects.</span></p>",
+          "columns": false
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "e0q1oIn7TPeFB7voOZS0MA",
+          "medias": [
+            {
+              "url": "https://www.datocms-assets.com/170228/1775100773-summernightsfinal.mp4",
+              "alt": "Summer Nights campaign video capturing nightlife energy and warm evenings",
+              "width": 1920,
+              "height": 1080,
+              "mimeType": "video/mp4",
+              "video": {
+                "thumbnailUrl": "/media/817d229caf42-thumbnail.jpg",
+                "mp4Url": "https://stream.mux.com/eFOtz02GAXuy12WM01GelE3J5xZn86CTFO/medium.mp4",
+                "muxPlaybackId": "eFOtz02GAXuy12WM01GelE3J5xZn86CTFO"
+              }
+            }
+          ]
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "I3ZZlLIoQgWzJ516FTo7UQ",
+          "medias": [
+            {
+              "url": "/media/98d9de4aee9d-1775100773-summer-nights-8.webp",
+              "alt": "Portrait of a man in warm light, Summer Nights editorial photography",
+              "width": 1920,
+              "height": 1080,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/474c330bb6c6-1775100773-summer-nights-10.webp",
+              "alt": "Man walking through a tunnel with dramatic lighting, Summer Nights urban exploration",
+              "width": 1920,
+              "height": 1080,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/1f025fcb518e-1775100773-summer-nights-2.webp",
+              "alt": "Person swimming in water wearing swimwear, Summer Nights outdoor portrait",
+              "width": 1080,
+              "height": 1350,
+              "mimeType": "image/webp",
+              "video": null
+            }
+          ]
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "fsIKVTccSVeORk7pHqaNYw",
+          "medias": [
+            {
+              "url": "/media/b0cd46784070-1775100773-summer-nights-9.webp",
+              "alt": "Man sitting indoors at a restaurant, Summer Nights casual lifestyle photography",
+              "width": 1920,
+              "height": 1080,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/9d0c0648ccd6-1775100773-summer-nights-14.webp",
+              "alt": "Man wearing glasses in portrait photography, Summer Nights editorial",
+              "width": 1920,
+              "height": 1080,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/ebea62791153-1775100773-summer-nights-13.webp",
+              "alt": "Man at a bar counter with ambient urban lighting, Summer Nights pub atmosphere",
+              "width": 1920,
+              "height": 1080,
+              "mimeType": "image/webp",
+              "video": null
+            }
+          ]
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "GiZKL1j8QCqRN-rM7dOB6A",
+          "medias": [
+            {
+              "url": "/media/16b187e93ed8-1775100773-summer-nights-4.webp",
+              "alt": "Underwater swimming scene in the sea, Summer Nights aquatic photography",
+              "width": 1080,
+              "height": 1350,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/75d7ad5a4769-1775100773-summer-nights-5.webp",
+              "alt": "Performer dancing under purple lighting, Summer Nights nightlife editorial",
+              "width": 1080,
+              "height": 1350,
+              "mimeType": "image/webp",
+              "video": null
+            }
+          ]
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "VrWk2oJ5TaKsHTFkfDvjXA",
+          "medias": [
+            {
+              "url": "/media/b6d2e97325b3-1775100773-summer-nights-15.webp",
+              "alt": "Ciele Summer Nights campaign — swimmer reaching through turquoise water in golden hour light",
+              "width": 1920,
+              "height": 1280,
+              "mimeType": "image/webp",
+              "video": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "W-jSD6mPSoSEqhj8IpkJUQ",
+      "projectTitle": "Western States",
+      "projectSlug": "western-states",
+      "projectClient": "Salomon",
+      "projectInformations": "Trail Running — After movie",
+      "projectDate": "2025-07-23",
+      "seo": {
+        "title": "Western States — Salomon",
+        "description": "Trail running documentary for Salomon at Western States. Creative direction and video.",
+        "image": {
+          "url": "https://www.datocms-assets.com/170228/1775100804-western_states_loop.webm",
+          "alt": "Salomon Western States 100 ultramarathon film — endurance runners conquering Sierra Nevada mountain trails",
+          "width": 1920,
+          "height": 1080,
+          "mimeType": "video/webm",
+          "video": {
+            "thumbnailUrl": "/media/595c5e923994-thumbnail.jpg"
+          }
+        },
+        "twitterCard": "summary_large_image"
+      },
+      "projectCover": {
+        "url": "https://www.datocms-assets.com/170228/1776364427-ws-cover.mp4",
+        "alt": null,
+        "width": 900,
+        "height": 720,
+        "mimeType": "video/mp4",
+        "video": {
+          "thumbnailUrl": "/media/1c0613dbe842-thumbnail.jpg",
+          "mp4Url": "https://stream.mux.com/O9YTYoTwN02EmABviTybCdYp00C9oZ1lcN/high.mp4",
+          "mp4MediumUrl": "https://stream.mux.com/O9YTYoTwN02EmABviTybCdYp00C9oZ1lcN/medium.mp4",
+          "muxPlaybackId": "O9YTYoTwN02EmABviTybCdYp00C9oZ1lcN"
+        }
+      },
+      "projectPoster": {
+        "url": "/media/700b506169a1-1775439146-western-states-poster.mp4",
+        "alt": "Ultra runner on the Western States 100 trail through Sierra Nevada mountains — Salomon endurance film poster",
+        "width": 1280,
+        "height": 720,
+        "mimeType": "video/mp4",
+        "video": {
+          "thumbnailUrl": "/media/6d0168f960be-thumbnail.jpg",
+          "mp4Url": "/media/b3f0b0b8fd60-high.mp4",
+          "mp4MediumUrl": "https://stream.mux.com/XXY3JjkgBKT8IgbnX6oNozm1AYrsFF1K/medium.mp4"
+        }
+      },
+      "pageContent": [
+        {
+          "__typename": "BlockContentRecord",
+          "id": "JP_RfqD6Ro-gMjrYr6wiGw",
+          "title": "Western States isn't just another 100-miler. ",
+          "text": "<main class=\"nKtaOrrNcEvN4P3EJ6Et\">\n<section class=\"FGz4U61jk9mJVseTqCq6 A_qI30soXVmQ4UNfpIJN FCb707n5Hc4nK2nfrRt0\">\n<div class=\"fFNJ_BH6DrF4QdSfjPdP PSL9z2mGqO2kEMN_ZOJl\">\n<div class=\"e8hNVcv2hNmgdRTcd0UO\">\n<div class=\"UF8GjwsZHDPDmhfMJPOg pHy4erJAYftGH9zGlL6z\">\n<div class=\"PBQZNIcKgp0FJ_yxBVaB\" id=\"cc20a544-6143-4085-9667-b0496f97f2cf-assistant-message-6-1\" data-activeresponse=\"true\">\n<div class=\"ucB71mHYvyHsWKjYfYKI\">\n<div class=\"DDjJOsxcW6f8fPcDWaJx\">\n<div class=\"JrWQJZIYGnawLoKSzZsO\">\n<div data-dark-theme=\"\" class=\"\">\n<div class=\"space-y-4 whitespace-normal *:first:mt-0 *:last:mb-0 VrBPSncUavA1d7C9kAc5 U_5uJaZtJAYAFWUmk7aU\">\n<p><span data-sd-animate=\"true\">It</span> <span data-sd-animate=\"true\">started</span> <span data-sd-animate=\"true\">with</span> <span data-sd-animate=\"true\">horses,</span> <span data-sd-animate=\"true\">then</span> <span data-sd-animate=\"true\">one</span> <span data-sd-animate=\"true\">guy</span> <span data-sd-animate=\"true\">decided</span> <span data-sd-animate=\"true\">to</span> <span data-sd-animate=\"true\">run</span> <span data-sd-animate=\"true\">it.</span> <span data-sd-animate=\"true\">The</span> <span data-sd-animate=\"true\">rest</span> <span data-sd-animate=\"true\">is</span> <span data-sd-animate=\"true\">trail-running</span> <span data-sd-animate=\"true\">legend.</span></p>\n<p><span data-sd-animate=\"true\">Salomon</span> <span data-sd-animate=\"true\">asked</span> <span data-sd-animate=\"true\">for</span> <span data-sd-animate=\"true\">something</span> <span data-sd-animate=\"true\">different</span> <span data-sd-animate=\"true\">for</span> <span data-sd-animate=\"true\">this</span> <span data-sd-animate=\"true\">recap.</span> <span data-sd-animate=\"true\">Not</span> <span data-sd-animate=\"true\">the</span> <span data-sd-animate=\"true\">usual</span> <span data-sd-animate=\"true\">hero</span> <span data-sd-animate=\"true\">montage.</span> <span data-sd-animate=\"true\">We</span> <span data-sd-animate=\"true\">linked</span> <span data-sd-animate=\"true\">with</span> <span data-sd-animate=\"true\">Quanine</span> <span data-sd-animate=\"true\">Studio</span> <span data-sd-animate=\"true\">in</span> <span data-sd-animate=\"true\">France</span> <span data-sd-animate=\"true\">and</span> <span data-sd-animate=\"true\">bent</span> <span data-sd-animate=\"true\">the</span> <span data-sd-animate=\"true\">footage</span> <span data-sd-animate=\"true\">in</span> <span data-sd-animate=\"true\">ways</span> <span data-sd-animate=\"true\">the</span> <span data-sd-animate=\"true\">ultra-trail</span> <span data-sd-animate=\"true\">world</span> <span data-sd-animate=\"true\">hadn't</span> <span data-sd-animate=\"true\">seen.</span> <span data-sd-animate=\"true\">On</span> <span data-sd-animate=\"true\">the</span> <span data-sd-animate=\"true\">ground</span> <span data-sd-animate=\"true\">we</span> <span data-sd-animate=\"true\">chased</span> <span data-sd-animate=\"true\">the</span> <span data-sd-animate=\"true\">grit</span> <span data-sd-animate=\"true\">and</span> <span data-sd-animate=\"true\">the</span> <span data-sd-animate=\"true\">weird</span> <span data-sd-animate=\"true\">beauty</span> <span data-sd-animate=\"true\">of</span> <span data-sd-animate=\"true\">a</span> <span data-sd-animate=\"true\">race</span> <span data-sd-animate=\"true\">that</span> <span data-sd-animate=\"true\">never</span> <span data-sd-animate=\"true\">gets</span> <span data-sd-animate=\"true\">easier.</span> <span data-sd-animate=\"true\">The</span> <span data-sd-animate=\"true\">climbs,</span> <span data-sd-animate=\"true\">the</span> <span data-sd-animate=\"true\">falls,</span> <span data-sd-animate=\"true\">the</span> <span data-sd-animate=\"true\">middle-of-the-night</span> <span data-sd-animate=\"true\">silence.</span></p>\n<p>Shot through old lenses. The frames carry weight. So does the story.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"IxVvmkiX8oMjeB3nBn90\">\n<div data-testid=\"duckai-chat-input\" class=\"fTx8kArcxKUd9ZBMcuCc\">\n<div class=\"EVDhJYnZpFz_IE5x5BBB\">\n<div class=\"XaZRgTWnxQdXEeK2_AtX\"></div>\n</div>\n</div>\n</div>\n</div>\n</section>\n</main>",
+          "columns": true
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "c05CmYI7QDeyBx9hdluxVw",
+          "medias": [
+            {
+              "url": "/media/fbee6857d6ad-1775100804-ws-1.webp",
+              "alt": "Runner's emotional face close-up during Western States ultramarathon effort",
+              "width": 1920,
+              "height": 1536,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/f58e425144f2-1775100804-ws-2.webp",
+              "alt": "Aerial view of road and arch architecture, Western States race landscape",
+              "width": 1920,
+              "height": 1536,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/039a17a87be7-1775100803-ws-3.webp",
+              "alt": "Close-up face and neck portrait of runner, Western States endurance photography",
+              "width": 1920,
+              "height": 1536,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/85a512c683da-1775438425-ws-11.webp",
+              "alt": "Person wearing baseball cap in close-up portrait, Western States race photography",
+              "width": 1536,
+              "height": 1920,
+              "mimeType": "image/webp",
+              "video": null
+            }
+          ]
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "Dv2Ztr8_REyVTd127LosXQ",
+          "medias": [
+            {
+              "url": "/media/a49155f485f2-1776301166-shoes-in-dirt.webp",
+              "alt": null,
+              "width": 1200,
+              "height": 800,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/5601cd353c35-1775100803-ws-5.webp",
+              "alt": "Water and sunlight in nature along the Western States trail course",
+              "width": 1920,
+              "height": 1536,
+              "mimeType": "image/webp",
+              "video": null
+            }
+          ]
+        },
+        {
+          "__typename": "BlockSingleTitleRecord",
+          "id": "Sl1rg023QsiI2F7c7Q7Mow",
+          "title": "More than 5,000,000 impressions, just on Instagram."
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "Ca1i-ZToSBCz_SzPxQROBA",
+          "medias": [
+            {
+              "url": "/media/c8660efd2583-1775438377-ws-9.webp",
+              "alt": "Man in shorts and undershirt with wristwatch, Western States runner portrait",
+              "width": 1440,
+              "height": 1920,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/529144dd7fc1-1775438270-ws-10.webp",
+              "alt": "Runner spitting during intense effort at Western States ultramarathon",
+              "width": 1152,
+              "height": 1440,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/999c7f18f7e7-1775438370-ws-13.webp",
+              "alt": "Man in baseball hat portrait among people, Western States race crowd photography",
+              "width": 1440,
+              "height": 1920,
+              "mimeType": "image/webp",
+              "video": null
+            },
+            {
+              "url": "/media/d9d9f6a12f10-1775438309-ws-8.webp",
+              "alt": "Person resting on grass after race effort, Western States ultramarathon recovery",
+              "width": 1080,
+              "height": 1440,
+              "mimeType": "image/webp",
+              "video": null
+            }
+          ]
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "XqP9mrtzQ62mLySvwOcnNg",
+          "medias": [
+            {
+              "url": "/media/315ff852206b-1775100803-ws-14.webp",
+              "alt": "Rocky soil and brick texture on Western States trail course",
+              "width": 1638,
+              "height": 2048,
+              "mimeType": "image/webp",
+              "video": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "YRFUCvy_TL2T7LCKRV1DoQ",
+      "projectTitle": "Nike Football",
+      "projectSlug": "nike-football",
+      "projectClient": "Nike",
+      "projectInformations": "Football — Commercial",
+      "projectDate": "2025-11-17",
+      "seo": {
+        "title": "Deviate 4 — Puma",
+        "description": "Running film for the Puma Deviate 4. Creative direction and video production by Podium.",
+        "image": {
+          "url": "/media/25399a9ff327-1775409361-puma_loop-edited.mp4",
+          "alt": "Puma Deviate 4 running shoe campaign — cinematic video production showcasing athletic performance and motion",
+          "width": 1920,
+          "height": 1080,
+          "mimeType": "video/mp4",
+          "video": {
+            "thumbnailUrl": "/media/38d2601b1087-thumbnail.jpg"
+          }
+        },
+        "twitterCard": "summary_large_image"
+      },
+      "projectCover": {
+        "url": "/media/32f95e4fff19-1789666020-746020966_18612285643007358_6881887439694729152_n.jpg",
+        "alt": null,
+        "width": 1080,
+        "height": 1339,
+        "mimeType": "image/jpeg",
+        "video": null
+      },
+      "projectPoster": {
+        "url": "/media/5d901d9d7d62-1789666020-743186169_18612285655007358_1774760511211214750_n.jpg",
+        "alt": null,
+        "width": 1080,
+        "height": 1339,
+        "mimeType": "image/jpeg",
+        "video": null
+      },
+      "pageContent": [
+        {
+          "__typename": "BlockContentRecord",
+          "id": "Ae48UqIiSPO-lwuMMvXYeg",
+          "title": "All Star Lineup for Nike Football",
+          "text": "",
+          "columns": false
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "WKfukf2iQ4m11xXgtYpNdg",
+          "medias": [
+            {
+              "url": "/media/c5c61103a32a-1789666019-742695446_18612285673007358_3909995256605228235_n.jpg",
+              "alt": null,
+              "width": 1080,
+              "height": 1339,
+              "mimeType": "image/jpeg",
+              "video": null
+            },
+            {
+              "url": "/media/a18632d32d4d-1789666019-745477206_18612285691007358_3993699686439437850_n.jpg",
+              "alt": null,
+              "width": 1080,
+              "height": 1339,
+              "mimeType": "image/jpeg",
+              "video": null
+            }
+          ]
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "WAdvTdABS8KTt4bmF_rDUA",
+          "medias": [
+            {
+              "url": "/media/abafa766b8b9-1789666020-744956044_18612285649007358_1950305151087170820_n.jpg",
+              "alt": null,
+              "width": 1080,
+              "height": 1339,
+              "mimeType": "image/jpeg",
+              "video": null
+            },
+            {
+              "url": "/media/9943227c39de-1789666019-753007334_18612285682007358_2099603569274216801_n-2.jpg",
+              "alt": null,
+              "width": 1080,
+              "height": 1339,
+              "mimeType": "image/jpeg",
+              "video": null
+            },
+            {
+              "url": "/media/97ab3b9e4aeb-1789666019-745342111_18612285664007358_3076086325036754077_n.jpg",
+              "alt": null,
+              "width": 1080,
+              "height": 1339,
+              "mimeType": "image/jpeg",
+              "video": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SZHsXR8iS0i2q64vq3MJiw",
+      "projectTitle": "THE FIRST SUPPER",
+      "projectSlug": "the-first-supper",
+      "projectClient": "3 TONNES",
+      "projectInformations": "Design — Brand Film",
+      "projectDate": "2025-12-02",
+      "seo": {
+        "title": "80 Winters — Auclair",
+        "description": "Celebrating 80 years of winter heritage with Auclair. Creative direction and video.",
+        "image": {
+          "url": "https://www.datocms-assets.com/170228/1775100569-auclair_loop.webm",
+          "alt": "Auclair 80 Winters ski film — backcountry skiing footage celebrating eight decades of Canadian winter craftsmanship",
+          "width": 1920,
+          "height": 1080,
+          "mimeType": "video/webm",
+          "video": {
+            "thumbnailUrl": "/media/ae80de3b950e-thumbnail.jpg"
+          }
+        },
+        "twitterCard": "summary_large_image"
+      },
+      "projectCover": {
+        "url": "/media/b80b21713672-1789666604-799502961_18382650637227912_1612992192054932648_n.jpg",
+        "alt": null,
+        "width": 1080,
+        "height": 654,
+        "mimeType": "image/jpeg",
+        "video": null
+      },
+      "projectPoster": {
+        "url": "/media/36082ec3271a-1789666604-798797950_18382650625227912_2279842186390661183_n.jpg",
+        "alt": null,
+        "width": 1080,
+        "height": 654,
+        "mimeType": "image/jpeg",
+        "video": null
+      },
+      "pageContent": [
+        {
+          "__typename": "BlockContentRecord",
+          "id": "Fp13-sR6RiWfDMCWI-gAjQ",
+          "title": "Revealing the A374 table for 3 TONNES, an object designed to outlive its owners",
+          "text": "<p>Diego Jacazio approached us to create a brand film on the first object of his collection. The idea was to communicate the divine through imagery, light, shapes and art direction.&nbsp;</p>",
+          "columns": true
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "cJewIakDQ-C-4ru9-GO6PA",
+          "medias": [
+            {
+              "url": "https://www.datocms-assets.com/170228/1789666482-3tonnes.mp4",
+              "alt": null,
+              "width": 1188,
+              "height": 720,
+              "mimeType": "video/mp4",
+              "video": {
+                "thumbnailUrl": "/media/15cd14fc2835-thumbnail.jpg",
+                "mp4Url": "https://stream.mux.com/hX1hstv1e01u2i5SJ3NO3GtFUH58MQBmf/medium.mp4",
+                "muxPlaybackId": "hX1hstv1e01u2i5SJ3NO3GtFUH58MQBmf"
+              }
+            }
+          ]
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "KjhO4dk9SNqv8KALbo--cg",
+          "medias": [
+            {
+              "url": "/media/7154f7aabb97-1789666605-799868130_18382650694227912_5744671891164240913_n.jpg",
+              "alt": null,
+              "width": 1080,
+              "height": 654,
+              "mimeType": "image/jpeg",
+              "video": null
+            },
+            {
+              "url": "/media/36082ec3271a-1789666604-798797950_18382650625227912_2279842186390661183_n.jpg",
+              "alt": null,
+              "width": 1080,
+              "height": 654,
+              "mimeType": "image/jpeg",
+              "video": null
+            },
+            {
+              "url": "/media/1af02b261023-1789666605-800275367_18382650709227912_8803674621728694926_n.jpg",
+              "alt": null,
+              "width": 1080,
+              "height": 654,
+              "mimeType": "image/jpeg",
+              "video": null
+            },
+            {
+              "url": "/media/839ff302b01e-1789666605-799404359_18382650664227912_94692819937603649_n.jpg",
+              "alt": null,
+              "width": 1080,
+              "height": 654,
+              "mimeType": "image/jpeg",
+              "video": null
+            }
+          ]
+        },
+        {
+          "__typename": "BlockMediaGridRecord",
+          "id": "UCFi3PIDTVKLH9DFvmGnQg",
+          "medias": [
+            {
+              "url": "/media/52f574fbcbec-1789666605-786657728_18382650619227912_3782949458294565827_n.jpg",
+              "alt": null,
+              "width": 1080,
+              "height": 654,
+              "mimeType": "image/jpeg",
+              "video": null
+            },
+            {
+              "url": "/media/b80b21713672-1789666604-799502961_18382650637227912_1612992192054932648_n.jpg",
+              "alt": null,
+              "width": 1080,
+              "height": 654,
+              "mimeType": "image/jpeg",
+              "video": null
+            },
+            {
+              "url": "/media/3e607e37a263-1789666605-798786248_18382650688227912_677750252017203530_n.jpg",
+              "alt": null,
+              "width": 1080,
+              "height": 654,
+              "mimeType": "image/jpeg",
+              "video": null
+            }
+          ]
+        },
+        {
+          "__typename": "BlockQuoteRecord",
+          "id": "U23XRGUFR5-g3gI0ygQeIg",
+          "text": "Shot on 16mm this campaign leverages it's timeless format to give soul to the images.",
+          "author": ""
+        }
+      ]
+    }
+  ],
+  "mosaic": [
+    {
+      "url": "/media/096d3a529d93-1775439125-80-winters-poster.mp4",
+      "alt": "Skier carving through deep powder in the Auclair 80 Winters film — celebrating 80 years of winter heritage",
+      "width": 1280,
+      "height": 720,
+      "mimeType": "video/mp4",
+      "video": {
+        "thumbnailUrl": "/media/6def7de2a94e-thumbnail.jpg",
+        "mp4Url": "/media/baadcff6849f-medium.mp4"
+      }
+    },
+    {
+      "url": "/media/7219cec95374-1776302059-puma-poster.mp4",
+      "alt": null,
+      "width": 320,
+      "height": 500,
+      "mimeType": "video/mp4",
+      "video": {
+        "thumbnailUrl": "/media/32e04530f16b-thumbnail.jpg",
+        "mp4Url": "/media/37a0b909de41-low.mp4"
+      }
+    },
+    {
+      "url": "/media/fbcb2b510972-1775439136-milimani-poster.mp4",
+      "alt": "Trail runner navigating East African highlands — Salomon Milimani trail running film poster",
+      "width": 1280,
+      "height": 878,
+      "mimeType": "video/mp4",
+      "video": {
+        "thumbnailUrl": "/media/76e1da50bb03-thumbnail.jpg",
+        "mp4Url": "/media/b6b8d30a6043-medium.mp4"
+      }
+    },
+    {
+      "url": "/media/349b7c809e4c-1776196504-4-hero.webp",
+      "alt": "A girl holding a wheel overhead walking in a golden grain field under a pale sky, with faint curved tracks in the middle and a dark treeline along the horizon.",
+      "width": 2880,
+      "height": 2160,
+      "mimeType": "image/webp",
+      "video": null
+    },
+    {
+      "url": "/media/b80b21713672-1789666604-799502961_18382650637227912_1612992192054932648_n.jpg",
+      "alt": null,
+      "width": 1080,
+      "height": 654,
+      "mimeType": "image/jpeg",
+      "video": null
+    },
+    {
+      "url": "/media/7219cec95374-1776302059-puma-poster.mp4",
+      "alt": null,
+      "width": 320,
+      "height": 500,
+      "mimeType": "video/mp4",
+      "video": {
+        "thumbnailUrl": "/media/32e04530f16b-thumbnail.jpg",
+        "mp4Url": "/media/37a0b909de41-low.mp4"
+      }
+    },
+    {
+      "url": "/media/7219cec95374-1776302059-puma-poster.mp4",
+      "alt": null,
+      "width": 320,
+      "height": 500,
+      "mimeType": "video/mp4",
+      "video": {
+        "thumbnailUrl": "/media/32e04530f16b-thumbnail.jpg",
+        "mp4Url": "/media/37a0b909de41-low.mp4"
+      }
+    }
+  ],
+  "carousel": [
+    {
+      "id": "Cyn8REbtRyCTTeikkixd9Q",
+      "text": "",
+      "content": "",
+      "media": {
+        "mimeType": "image/jpeg",
+        "responsiveImage": {
+          "src": "/media/ec66a4d1979b-1776216834-img_6352.jpeg",
+          "width": 800,
+          "height": 1066,
+          "alt": null,
+          "sizes": "(max-width: 800px) 100vw, 800px"
+        },
+        "video": null
+      }
+    },
+    {
+      "id": "HZyWRgKDQE-N7fI24waFsQ",
+      "text": "",
+      "content": "",
+      "media": {
+        "mimeType": "video/mp4",
+        "responsiveImage": null,
+        "video": {
+          "muxPlaybackId": "Ezq8ZkDg1epM5100nhYtgE7Qsx02Un02Y00e",
+          "thumbnailUrl": "/media/cddfdb20ff88-thumbnail.jpg",
+          "mp4Url": "/media/e0550c379609-medium.mp4"
+        }
+      }
+    },
+    {
+      "id": "cxOMv5JrQqG-NgND-jx9XQ",
+      "text": "",
+      "content": "",
+      "media": {
+        "mimeType": "image/jpeg",
+        "responsiveImage": {
+          "src": "/media/05e1442760e8-1776219966-dsc09641.jpg",
+          "width": 800,
+          "height": 1066,
+          "alt": null,
+          "sizes": "(max-width: 800px) 100vw, 800px"
+        },
+        "video": null
+      }
+    },
+    {
+      "id": "INYYd_bzTU6j94cBK2a6dQ",
+      "text": "",
+      "content": "",
+      "media": {
+        "mimeType": "video/mp4",
+        "responsiveImage": null,
+        "video": {
+          "muxPlaybackId": "s5rSMY9C00vXcD9xN02SdkqrHvKcZPDbtT",
+          "thumbnailUrl": "/media/db648545e88f-thumbnail.jpg",
+          "mp4Url": "/media/e66aa417813c-medium.mp4"
+        }
+      }
+    },
+    {
+      "id": "D-5AT63OTYqhpGPdD39DnA",
+      "text": "",
+      "content": "",
+      "media": {
+        "mimeType": "video/mp4",
+        "responsiveImage": null,
+        "video": {
+          "muxPlaybackId": "cy8ig01j4TYOCY2knVnRlF36fi01g701JbN",
+          "thumbnailUrl": "/media/246ee796ffd1-thumbnail.jpg",
+          "mp4Url": "/media/d2e4561afc0a-medium.mp4"
+        }
+      }
+    },
+    {
+      "id": "P0Mq-fh9QNuHx2u168QNlA",
+      "text": "",
+      "content": "",
+      "media": {
+        "mimeType": "video/mp4",
+        "responsiveImage": null,
+        "video": {
+          "muxPlaybackId": "RYQvEV6fgtLaY8XYSuGLIGG0100SXM00K3y",
+          "thumbnailUrl": "/media/83377a745277-thumbnail.jpg",
+          "mp4Url": "/media/e14dccc978ad-medium.mp4"
+        }
+      }
+    },
+    {
+      "id": "J3ZcHGkGRqGZgAK55aq4GQ",
+      "text": "",
+      "content": "",
+      "media": {
+        "mimeType": "video/mp4",
+        "responsiveImage": null,
+        "video": {
+          "muxPlaybackId": "sPMPHJ7A2NZD6YEtr2oRrCee2DIBL1tP",
+          "thumbnailUrl": "/media/b05beab3df91-thumbnail.jpg",
+          "mp4Url": "/media/7415365c7940-medium.mp4"
+        }
+      }
+    },
+    {
+      "id": "dt4NrTIATE2qUVdb9OD5rg",
+      "text": "",
+      "content": "",
+      "media": {
+        "mimeType": "video/mp4",
+        "responsiveImage": null,
+        "video": {
+          "muxPlaybackId": "QjVLMJ01QuDiYPwNtZ015qKhd3ro7P00DXB",
+          "thumbnailUrl": "/media/5193fe6b21b9-thumbnail.jpg",
+          "mp4Url": "/media/c758a78a1d7f-medium.mp4"
+        }
+      }
+    },
+    {
+      "id": "FtSs88IMTpeHeOnCRl1QUw",
+      "text": "",
+      "content": "",
+      "media": {
+        "mimeType": "video/mp4",
+        "responsiveImage": null,
+        "video": {
+          "muxPlaybackId": "6004qT7Fk7XkBJZwuSbvfZbB8tA9jKU00R",
+          "thumbnailUrl": "/media/5269db20db93-thumbnail.jpg",
+          "mp4Url": "/media/bddc823b1714-medium.mp4"
+        }
+      }
+    },
+    {
+      "id": "SVf2HaPOQJeitstrMJ9tCA",
+      "text": "",
+      "content": "",
+      "media": {
+        "mimeType": "video/mp4",
+        "responsiveImage": null,
+        "video": {
+          "muxPlaybackId": "AxQ00RHCjQl3prRak10201L14SXK2atlkoZ",
+          "thumbnailUrl": "/media/f5ed668fb5ab-thumbnail.jpg",
+          "mp4Url": "/media/636f3b7b42d6-medium.mp4"
+        }
+      }
+    },
+    {
+      "id": "SQ1iBsB4RimKVlhkyuXQ0w",
+      "text": "",
+      "content": "",
+      "media": {
+        "mimeType": "video/mp4",
+        "responsiveImage": null,
+        "video": {
+          "muxPlaybackId": "vFQzwsDyHxVBB01q54zOUqxcMU6qiuwys",
+          "thumbnailUrl": "/media/86d40780179c-thumbnail.jpg",
+          "mp4Url": "/media/2c9924be3360-medium.mp4"
+        }
+      }
+    },
+    {
+      "id": "TuBbRKF7Sqi-2B6jAgVheg",
+      "text": "",
+      "content": "",
+      "media": {
+        "mimeType": "image/jpeg",
+        "responsiveImage": {
+          "src": "/media/226cc17aa2d8-1776216821-f96fbf53-79e2-4ff6-a363-091fcbefa436.jpg",
+          "width": 800,
+          "height": 1200,
+          "alt": null,
+          "sizes": "(max-width: 800px) 100vw, 800px"
+        },
+        "video": null
+      }
+    }
+  ]
+}
